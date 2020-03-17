@@ -61,3 +61,6 @@ h1 {
   border: 0;
   border-bottom: 0.1rem solid #fff;
 }
+.user-name:focus {
+  outline-width: 0;
+}
